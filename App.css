@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: lightblue;
+}
+
+.nav-links {
+  width: 50%;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.displaytable {
+  align-items: center;
+  justify-content: space-around;
+}
